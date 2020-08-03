@@ -10,4 +10,4 @@ I'm Gabriel Tsunoda, I'm a Full Stack developer 👨‍💻 who is passionate ab
 - 💬 Ask me about: tech, japanese culture, anime.
 - ⚡ Technologies: React, Node, React-Native
 
-"Everbody in this country should learn how to program a computer... because it traches you how to think." 
+"Everbody in this country should learn how to program a computer... because it teaches you how to think." - Steve Jobs
