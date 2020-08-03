@@ -6,7 +6,7 @@
 I'm Gabriel Tsunoda, I'm a Full Stack developer 👨‍💻 who is passionate about technology including several programming languages. 
 
 - 🔭 I am currently working with typescript development with stack based on react and node
-- 🌱 I’m currently learning IA,DevOps and of course JS improvments
+- 🌱 Always studying, and improving my knowledge more and more
 - 💬 Ask me about: tech, japanese culture, anime.
 - ⚡ Technologies: React, Node, React-Native
 
