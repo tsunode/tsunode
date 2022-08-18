@@ -1,5 +1,5 @@
 # Gabriel Tsunoda
-[![Linkedin Badge](https://img.shields.io/badge/-tsunodagabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsunodagabriel/)](https://www.linkedin.com/in/tsunodagabriel/)
+[![Linkedin Badge](https://img.shields.io/badge/-tsunode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsunode/)](https://www.linkedin.com/in/tsunode/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrieltsunoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieltsunoda@gmail.com)](mailto:gabrieltsunoda@gmail.com)
 
 ## Hi 👋, 
