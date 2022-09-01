@@ -1,6 +1,7 @@
 # Gabriel Tsunoda
 [![Linkedin Badge](https://img.shields.io/badge/-tsunode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsunode/)](https://www.linkedin.com/in/tsunode/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrieltsunoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieltsunoda@gmail.com)](mailto:gabrieltsunoda@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-tsunode-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.linkedin.com/in/tsunode/)](https://www.youtube.com/c/tsunode)
+[![Instagram Badge](https://img.shields.io/badge/-tsu.node-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/tsunode/)](https://www.instagram.com/tsu.node/)
 
 ## Hi 👋, 
 I'm Gabriel Tsunoda, I'm a Full Stack developer 👨‍💻 who is passionate about technology including several programming languages. 
